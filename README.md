@@ -10,5 +10,4 @@ make
 cd ..
 ./project
 ```
-Output - 
 ![image output](./output/img.png?raw=true "Sample Output")
